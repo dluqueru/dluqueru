@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dluqueru" alt="dluqueru" /></a> </p>
 
-- 🔭 I’m currently studying on *web applications development*
+- 🔭 I’m currently studying *Web Applications Development*
 
 - 👯 I’m looking to collaborate on *programming projects*
 
